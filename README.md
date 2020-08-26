@@ -1,5 +1,6 @@
 # D2B
-#Decimal number converting to binary solutions in different programming languages#
+
+##Decimal number converting to binary solutions in different programming languages
 
 Conversion steps:
 - Divide the number by 2.
